@@ -1,0 +1,6 @@
+framework module Pods_FaceLasers {
+  umbrella header "Pods-FaceLasers-umbrella.h"
+
+  export *
+  module * { export * }
+}
